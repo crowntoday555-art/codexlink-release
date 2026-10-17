@@ -90,9 +90,7 @@
 
 ## 联系与反馈
 
-- 官方 QQ 群：**596473771**（获取最新版本 / 一键配置包 / 反馈问题）
+- 官方 QQ 群：**596473771**（https://qun.qq.com/universal-share/share?ac=1&authKey=irC7Axiej6UwiBnM3cDKMBH5j2vn3u2qDWla9YRDg1tlOQD7AcHZ/HL4UbXQQ14e&busi_data=eyJncm91cENvZGUiOiI1OTY0NzM3NzEiLCJ0b2tlbiI6Ik1rdHl4eFRrSWlneERwcUlXVlcyb3RWaTcvUjlLT1hZLzZJemZwaVNvMTErKzZXK2hGOU13U3B2RjY0ZFlZM0kiLCJ1aW4iOiIyNjc4NzA4NDY5In0=&data=oouwZukJ35gU8JxgCrJ3VvVXfd4Hf82KJOJkCK3jscn5l89xbltt5SeIThZ2vV4YDxBgbwGmRn58EnYQFokxam3qJ8KLUYZsyVa7k1Qhki8&svctype=5&tempid=h5_group_info）（获取最新版本 / 一键配置包 / 反馈问题）
 - 邮箱：Lx31046@outlook.com
 
-扫码进群：
 
-![QQ 群二维码](./qrcode.png)
